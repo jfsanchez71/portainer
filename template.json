@@ -5122,7 +5122,7 @@
                     "name": "TZ"
                 }
             ],
-            "image": "linuxserver/rdesktop:ubuntu-mate",
+            "image": "linuxserver/rdesktop:latest",
             "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rdesktop.png",
             "name": "Rdesktop",
             "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p><br>mkdir -p /volume1/docker/rdesktop/config</p>",
