@@ -8196,7 +8196,7 @@
                 "database"
             ],
             "description": "Open-source search and analytics engine",
-            "image": "elasticsearch:latest",
+            "image": "elasticsearch",
             "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/elasticsearch.png",
             "platform": "linux",
             "ports": [
